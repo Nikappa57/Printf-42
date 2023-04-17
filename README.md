@@ -16,7 +16,5 @@ The goal of this project is pretty straightforward. You will recode printf(). <b
 You will mainly learn about using a variable number of arguments.</p>
 <p align="center"><img src="https://img.shields.io/badge/Version-9-blue?style=for-the-badge"></p>
 
-<p align="center"><a href="./RMfile/en.subject.pdf">Subject</a></p>
-
 <hr>
 <p align="center">My updated version that I use in the new projects of 42 courses <a href="https://github.com/Nikappa57/Libft-42/tree/EXTRA/srcs/ft_printf">here</a>.</p>
