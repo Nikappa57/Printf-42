@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/JaeSeoKim/badge42">
-		<img src="https://badge42.vercel.app/api/v2/cld6lomfp00250fl5aqiuznp2/project/3049231" alt="lgaudino's 42 ft_printf Score" />
+		<img src="https://badge42.coday.fr/api/v2/clqxo53wo048601p4i7u947zd/project/3049231" alt="lgaudino's 42 ft_printf Score" />
 	</a>
 </p>
 <p align="center">
   <a href="https://github.com/JaeSeoKim/badge42">
-   <img src="https://badge42.vercel.app/api/v2/cld6lomfp00250fl5aqiuznp2/stats?cursusId=21&coalitionId=124" alt="lgaudino's 42 stats" />
+   <img src="https://badge42.coday.fr/api/v2/clqxo53wo048601p4i7u947zd/stats?cursusId=21&coalitionId=124" alt="lgaudino's 42 stats" />
   </a>
 </p>
 <p align="center">Summary:</p>
